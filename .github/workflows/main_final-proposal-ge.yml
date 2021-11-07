@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'final-proposal-ge'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_275355D08EF0486291173FEAF706F944 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A34365F93CB6475CB3B5FE480F28E08F }}
           package: .
